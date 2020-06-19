@@ -11,7 +11,7 @@ If the user chooses resistance, input boxes will appear allowing the user to inp
 ![Dashboard](/screenshots/ss4.png?raw=true)
 In the upper left corner, there is a button titled 'dashboard.' If a user selects this button, they will be directed to a page containing all the information about all of the exercises they have logged. A line graph on the left shows the duration in minutes per day of the week the user exercises. A bar graph on the right displays the amount of weight (in lbs) lifted per day of the week. Pie charts at the bottom of the page show how much of each exercise the user has completed.
 
-*The The application itself was pre-developed by Triology; I developed the server, models, and routes.
+*The The application itself was pre-developed by Trilogy; I developed the server, models, and routes.
 
 ## Technologies
 Database: MongoDB
