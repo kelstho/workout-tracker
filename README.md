@@ -16,7 +16,7 @@ In the upper left corner, there is a button titled 'dashboard.' If a user select
 ## Technologies
 Database: MongoDB
 
-Frameworks/Libraries: Mongoose, Express, Bootstrap
+Frameworks/Libraries: Mongoose, Node, Express, Bootstrap
 
 ## Links
 
